@@ -1,12 +1,15 @@
 ---
 layout: page
 title: Design Options
-link-title: Design
+"link-title": Design
 permalink: /design/
+published: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## Standard Book Cloths
+The following are our current selection of book cloths which are included in our basic price list.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+These cloths are a soft, rich feeling, bonded leather. They are priced at $10.00 above the base price, per book.
+

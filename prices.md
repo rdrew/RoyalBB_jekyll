@@ -4,6 +4,7 @@ title: What is Included in Our Basic Price
 "link-title": Prices
 permalink: /prices/
 published: true
+weight: 2
 ---
 
 Our base price for binding a single book on letter size paper is $38.00. This price includes trimming the text to its final size and gluing the pages (called Perfect Binding). Your bound text will then be backed with a cotton mull, for added support and to strengthen of the spine of your book. In addition, this price includes your choice of a number of standard coloured and textured cloth cover materials, your choice of standard coloured end sheets, your choice of head bands, and imprinting the title and author on the cover and spine of the book using either gold or silver foil.

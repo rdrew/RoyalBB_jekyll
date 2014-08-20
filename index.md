@@ -3,11 +3,14 @@ layout: default
 title: "Welcome to Royal Book-Binders"
 "link-title": Home
 published: true
+weight: 1
 ---
 
 Royal Bookbinders is located in Charlottetown, Prince Edward Island, Canada. We specialize in taking your manuscript, binding it, and placing it between carefully hand crafted hard covers, complete with title and author information on the cover and spine of the finished book.
 
+
 > We do custom book binding, any size, any volume. 
+
 
 Royal Bookbinders takes the same amount of pride and care in binding a single book order as we do in binding orders for one hundred books, whether your manuscript is ten or 1000 pages thick. If you are working on your family history, we can bind all that research into a handsomely bound volume, suitable for gift giving, which will be a source of pride on any book shelf.
 

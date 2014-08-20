@@ -8,6 +8,9 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
+html, html a {
+    -webkit-font-smoothing: antialiased;
+}
 
 
 /**
@@ -23,7 +26,7 @@ body {
     background-color: $background-color;
     font-family: $serif-2;
     font-size: 1em;
-    font-weight: 300;
+    font-weight: 400;
 }
 p {
      margin-bottom: 1.5em;
@@ -98,7 +101,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
     font-family: $base-font-family-serif;
     font-size: 2em;
-    font-weight: 400;
+    font-weight: 700;
     margin-bottom: .5em;
     // @include media-query($on-laptop) {
     //   font-size: 2.6em;
@@ -108,8 +111,8 @@ h1 {
 h2 {
     font-family: $serif-2;
     font-style: italic;
-    font-size: 1em;
-    font-weight: 400;
+    font-size: 1.6em;
+    font-weight: 700;
     line-height: 1.6em;
     margin-bottom: .9em;
     // @include media($medium-screen) {
@@ -120,7 +123,7 @@ h2 {
     h3 {
     font-family: $base-font-family-serif;
     font-size: 1.4em;
-    font-weight: 400;
+    font-weight: 700;
     line-height: 1.3em;
     margin-bottom: .4em;
   }

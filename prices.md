@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: What is Included in Our Basic Price
 "link-title": Prices
 permalink: /prices/

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Design Options
 "link-title": Design
 permalink: /design/

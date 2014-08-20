@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: The Text You Send Us
 link-title: Your Text
 permalink: "/your-text/"

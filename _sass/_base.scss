@@ -14,13 +14,25 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    font-family: $base-font-family;
-    font-size: $base-font-size;
+    
+   
+    // font-size: $base-font-size;
     line-height: $base-line-height;
-    font-weight: 300;
+  
     color: $text-color;
     background-color: $background-color;
+    font-family: $serif-2;
+    font-size: 1em;
+    font-weight: 300;
 }
+p {
+     margin-bottom: 1.5em;
+
+    span {
+      font-family: $sans-serif;
+      font-weight: 700;
+    }
+  }
 
 
 
@@ -33,6 +45,7 @@ ul, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 2;
 }
+
 
 
 
@@ -82,6 +95,35 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
 }
 
+h1 {
+    font-family: $base-font-family-serif;
+    font-size: 2em;
+    font-weight: 400;
+    margin-bottom: .5em;
+    // @include media-query($on-laptop) {
+    //   font-size: 2.6em;
+    // }
+}
+
+h2 {
+    font-family: $serif-2;
+    font-style: italic;
+    font-size: 1em;
+    font-weight: 400;
+    line-height: 1.6em;
+    margin-bottom: .9em;
+    // @include media($medium-screen) {
+    //   font-size: 1.2em;
+    // }
+  }
+
+    h3 {
+    font-family: $base-font-family-serif;
+    font-size: 1.4em;
+    font-weight: 400;
+    line-height: 1.3em;
+    margin-bottom: .4em;
+  }
 
 
 /**
@@ -110,8 +152,9 @@ blockquote {
     color: $grey-color;
     border-left: 4px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
-    font-size: 18px;
+    font-size: 1.3em;
     letter-spacing: -1px;
+    font-family: $base-font-family-serif;
     font-style: italic;
 
     > :last-child {

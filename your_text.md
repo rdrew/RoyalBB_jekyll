@@ -2,7 +2,7 @@
 layout: page
 title: The Text You Send Us
 link-title: Your Text
-permalink: "/Your Text/"
+permalink: "/your-text/"
 published: true
 ---
 

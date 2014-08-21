@@ -17,16 +17,13 @@ html, html a {
  * Basic styling
  */
 body {
-    
-   
     // font-size: $base-font-size;
     line-height: $base-line-height;
-  
     color: $text-color;
     background-color: $background-color;
     font-family: $serif-2;
-    font-size: 1em;
-    font-weight: 400;
+  font-size: 1.1em;
+  font-weight: 400;
 }
 p {
      margin-bottom: 1.5em;
@@ -34,8 +31,64 @@ p {
     span {
       font-family: $sans-serif;
       font-weight: 700;
+      font-style: italic;
     }
   }
+.page-content {
+    background: url('/images/ltbg.jpg');
+background-repeat: repeat;
+ border-top: 1px solid #777171;
+}
+
+header.site-header {
+    background: #BDA66D;
+    border-bottom: 1px solid rgba(207, 198, 177, 1);
+    padding-top: 5px;
+
+}
+
+footer.site-footer {
+    background: #44404E;
+}
+
+.page-content .wrapper {
+background: rgba(255, 255, 255, 0.541176);
+}
+
+h1.post-title {
+    padding-top: 20px;
+}
+
+.page-content .wrapper {
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+
+}
+
+img#frontpage-img1 {
+    float: left;
+    width: 25%;
+    margin: 0 10px 0 0;
+}
+
+a.page-link:hover {
+    color: #4C64B4;
+    border-bottom: 1px solid #4C64B4;
+    text-decoration: none;
+}
+
+h1.post-title {
+    border-bottom: 2px solid grey;
+    padding-bottom: 15px;
+}
+
+/* ==========================================================================
+   front page
+   ========================================================================== */
+   img#frontpage-img1 {
+float: left;
+width: 30%;
+}
 
 
 
@@ -152,8 +205,8 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
+    color: $blue;
+    border-left: 4px solid $grey-color-dark;
     padding-left: $spacing-unit / 2;
     font-size: 1.3em;
     letter-spacing: -1px;

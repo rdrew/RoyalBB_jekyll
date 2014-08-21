@@ -6,20 +6,36 @@
 
 
 // Our variables
+// font-family: 'IM Fell DW Pica', serif;
+// font-family: 'IM Fell Great Primer', serif;
+// font-family: 'IM Fell Great Primer SC', serif;
 $base-font-family: Helvetica, Arial, sans-serif;
+
+
 $base-font-family-serif: 'Lusitana', serif;
-$serif-2: 'Merriweather', serif;
+// $base-font-family-serif: 'IM Fell DW Pica', serif;
+// $base-font-family-serif: 'IM Fell Great Primer', serif;
+// $base-font-family-serif: 'IM Fell Great Primer SC', serif;
+
+
+// $serif-2: 'Merriweather', serif;
+// $serif-2: 'IM Fell DW Pica', serif;
+$serif-2: 'IM Fell Great Primer', serif;
+// $serif-2: 'IM Fell Great Primer SC', serif;
+
+
 $sans-serif: 'Merriweather Sans', sans-serif;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.6;
-
+// $base-line-height: 1.6;
+$base-line-height: 1.4;
 $spacing-unit:     30px;
 
 $text-color:       #333;
 $background-color: #fdfdfd;
 $brand-color:      #2a7ae2;
 
+$blue: #4C64B4;
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);

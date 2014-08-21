@@ -1,6 +1,6 @@
 ---
 layout: default
-title: What is Included in Our Basic Price
+title: Basic Pricing
 "link-title": Prices
 permalink: /prices/
 published: true
